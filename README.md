@@ -1,5 +1,5 @@
 # Automation_Project
-Automation project for Upgrad Assignment
+Automation project
 
 This shell script contains the automation for the following steps:
 
